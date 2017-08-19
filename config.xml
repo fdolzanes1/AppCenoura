@@ -23,5 +23,5 @@
     <preference name="fullscreen" value="true" />
     <preference name="permissions" value="none" />
     <platform name="android" />
-
+    <platform name="ios" />
 </widget>
